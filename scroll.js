@@ -2,10 +2,10 @@
     "use strict";
 
     const EVENT_SCROLL = 'scroll';
-    const COMPONENT_ID = '<YOUR_COMPONENT_ID>';
+    const COMPONENT_ID = 'scrollBar';
     const CSS_STYLE = 'style';
-    const CSS_PARAM = '<YOUR_PARAM>:'
-    const CSS_PERCENTAGE = '%'; */ Could be used or not */
+    const CSS_PARAM = 'width:';
+    const CSS_PERCENTAGE = '%'; /* Could be used or not */
 
     var scrollBar = document.getElementById(COMPONENT_ID);
 
